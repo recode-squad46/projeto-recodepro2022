@@ -1,0 +1,40 @@
+header {
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
+header img {
+    height: 96px;
+}
+.cor-de-fundo-header {
+    background-color: #b5effb;
+    border-bottom: solid 12px #fcfac7;
+}
+.cor-link {
+color: #111111 ;
+font-weight: bold;
+}
+.cor-link:hover {
+    color: #ffffeb;
+}   
+.banner-principal {
+    width:100%;
+}
+.texto-conteudo h2 {
+    font-size: 18px;
+}
+.imagem-conteudo {
+    height: 100%;
+    width: 100%;
+}
+footer p {
+    text-align: center;
+    justify-content: center;
+    font-size: 14px;
+}
+.cor-de-fundo-footer {
+    background-color: #b5effb;
+    border-top: solid 12px #fcfac7;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}

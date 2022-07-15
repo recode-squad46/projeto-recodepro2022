@@ -59,8 +59,11 @@ footer p {
     background-color: #87cbd9;
 }
 .titulo-aba {
-        -webkit-filter: drop-shadow(3px 3px 3px #5ab1c4);
+    -webkit-filter: drop-shadow(3px 3px 3px #5ab1c4);
     filter: drop-shadow(3px 3px 3px  #5ab1c4);
+}
+.titulo-conf {
+    margin-top: 15px;
 }
 .tabela-alunos {
     box-shadow: 2px 2px 2px 1px #2d2d2d2f; 
@@ -84,4 +87,8 @@ tbody tr:nth-child(odd) {
 tbody tr:nth-child(even) {
     background: #fcfac7;
     text-align: center
+}
+.distancia-linha {
+    display: flex;
+    justify-content: space-evenly;
 }

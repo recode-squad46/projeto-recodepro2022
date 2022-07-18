@@ -79,7 +79,7 @@ O trabalho foi feito de forma coletiva na ideação e escolha de detalhes no pro
 - Gabriel Salles: Elaboração da tela #2 de login (responsiva);
 - Gabriel Leão: Elaboração do modelo lógico (responsiva)  e do modelo conceitual do banco de dados (responsiva);
 - Wellington: Logo do site; tela #7 de cadastro (responsiva) e tela #9 de esqueci a senha (responsiva);
-- Carlos Wallace:  Revisão geral do código; tela #1 index/home (responsiva), tela #8 do link do jogo (responsiva), tela #5 do professor – visão geral (responsiva) e tela #6 do professor – visão por aluno (responsiva).
+- Carlos Wallace:  Revisão geral do código; tela #1 index/home (responsiva), tela #8 do link do jogo (responsiva), tela #5 do professor – visão geral (responsiva) e tela #6 do professor – visão por aluno (responsiva), logo do site.
 
 ---
 
